@@ -45,6 +45,7 @@ python3 main.py
 - Created atomic commits with Conventional Commit messages
 - Pushed and pulled changes with a GitHub remote
 - Authored structured Markdown documentation
+- Edited on Github
 
 ## References
 
