@@ -1,1 +1,4 @@
-print("CSE103 Lab 3: Git and GitHub workflows")
+print("Hello, Git!")
+print("Version 2 - updated output")
+print("Output from main branch")
+print("Output from feature-branch")
